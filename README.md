@@ -1,16 +1,17 @@
-### Hi there 👋
+---
+tags: github, portfolio
+---
+![[c16adb35-e5dd-49bf-ae29-c3b3d3078b5d.gif]]
 
-<!--
-**iruldanet/iruldanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Choose your own Adventure 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Microsoft Azure Projects
+
+
+
+### Mini Web Dev Projects
+
+
+
+
