@@ -37,15 +37,20 @@ Highly-motivated with a strong foundation in information technology, a passion f
   
 - ⚡ Ask me about recent projects and/or anime. 
 
+<br />
+
 ###
 <!-- Projects -->
-⚙️ Working Projects 
+<h3 align="left">⚙️ Working Projects</h3>
 
-* [AZFK-Tech Azure Cloud - Proof of Concept]()
+
+* AZFK-Tech Azure Cloud - Proof of Concept
 * [Azure SOC & Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet)
 * [Botium Security Audit](https://github.com/damitasalmon/botium-security-audit)
-* [OpenVas Vulnerability Management]()
-  
+* OpenVas Vulnerability Management
+* 
+<br />  
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -120,6 +125,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
   <img width="12" />
 
 </div>
+<br />
 
 ###
 <!-- Quote of the Day -->
