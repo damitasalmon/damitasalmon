@@ -48,7 +48,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 * [Azure SOC & Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet)
 * [Botium Security Audit](https://github.com/damitasalmon/botium-security-audit)
 * OpenVas Vulnerability Management
-* 
+  
 <br />  
 
 ###
