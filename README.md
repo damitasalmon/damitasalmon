@@ -1,7 +1,8 @@
+
 # Choose your own Adventure 👋🏾
 
 <div align="center">
-  <img height="150" src="./img/gitlab-readme-banner-header.gif" />
+  <img height="300" src="./img/gitlab-readme-banner-header.gif" />
 </div>
 
 ###
@@ -18,8 +19,6 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-Highly-motivated with a strong foundation in information technology, a passion for protecting digital assets and a proactive approach to threat analysis. Eager to leverage my technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
 
 ###
 
@@ -109,8 +108,6 @@ Highly-motivated with a strong foundation in information technology, a passion f
 ###
 
  
-### ✍️ Quote of the Day
- <img align="center" src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 
 ###
@@ -119,7 +116,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 ###
 
 <div align="center">
-  <img height="150" src="./img/gitlab-readme-banner-footer.gif" />
+  <img height="300" src="/img/gitlab-readme-banner-footer.gif"" />
 </div>
 
 ###
