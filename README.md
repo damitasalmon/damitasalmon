@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="200" src="./img/gitlab-readme-banner-headerv2.gif" />
+  <img height="200" src="./img/gitlab-readme-banner-headerv3.gif" />
 </div>
 
 ###
@@ -23,9 +23,11 @@
 
 
 ###
+<!-- About and stuffs -->
 <h3 align="left">💅🏾 About Me</h3>
 
-<!-- About and stuffs -->
+Highly-motivated with a strong foundation in information technology, a passion for protecting digital assets and a proactive approach to threat analysis. Eager to leverage my technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
+
 
 - 🔭 I’m currently working on an [Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
 
