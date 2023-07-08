@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="300" src="./img/gitlab-readme-banner-header.gif" />
+  <img height="250" src="./img/gitlab-readme-banner-header.gif" />
 </div>
 
 ###
@@ -17,12 +17,12 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure)
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<!-- About and stuffs -->
 
 - 🔭 I’m currently working on [an Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
 
@@ -33,6 +33,7 @@
 - ⚡ Ask me about recent projects and/or anime. 
 
 ###
+<!-- Projects -->
 <!--  ⚙️ Recent Projects 
 
 * [ATK Azure Cloud - Proof of Concept]()
@@ -46,6 +47,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+<!-- Tools -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -116,21 +118,23 @@
 </div>
 
 ###
-
+<!-- Quote of the Day -->
  
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ###
+<!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/damitasalmon/damitasalmon/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!-- Footer Banner, Bye Bye -->
 <div align="center">
-  <img height="300" src="/img/gitlab-readme-banner-footer.gif"" />
+  <img height="250" src="/img/gitlab-readme-banner-footer.gif"" />
 </div>
 
 ###
 
+<!-- Visitor count -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/damitasalmon/count.svg?"  />
 </div>
