@@ -36,7 +36,6 @@ Highly-motivated with a strong foundation in information technology, a passion f
 - 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/). 
   
 - ⚡ Ask me about recent projects and/or anime. 
-
 <br />
 
 ###
@@ -48,7 +47,6 @@ Highly-motivated with a strong foundation in information technology, a passion f
 * [Azure SOC & Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet)
 * [Botium Security Audit](https://github.com/damitasalmon/botium-security-audit)
 * OpenVas Vulnerability Management
-  
 <br />  
 
 ###
@@ -123,7 +121,6 @@ Highly-motivated with a strong foundation in information technology, a passion f
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" height="40" />
   <img width="12" />
-
 </div>
 <br />
 
