@@ -1,7 +1,7 @@
 # Choose your own Adventure 👋🏾
 
 <div align="center">
-  <img height="150" src="/img/gitlab-readme-banner-header.gif?raw=true />
+  <img height="150" src="./img/gitlab-readme-banner-header.gif" />
 </div>
 
 ###
@@ -115,7 +115,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="/img/gitlab-readme-banner-footer.gif?raw=true />
+  <img height="150" src="./img/gitlab-readme-banner-footer.gif?raw=true />
 </div>
 
 ###
