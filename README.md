@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="200" src="./img/gitlab-readme-banner-header.gif" />
+  <img height="200" src="./img/gitlab-readme-banner-headerv2.gif" />
 </div>
 
 ###
