@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="250" src="./img/gitlab-readme-banner-header.gif" />
+  <img height="200" src="./img/gitlab-readme-banner-header.gif" />
 </div>
 
 ###
@@ -16,8 +16,11 @@
 </div>
 
 ###
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure" alt="Typing SVG" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure)
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
@@ -120,7 +123,9 @@
 ###
 <!-- Quote of the Day -->
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Typing SVG" />
+</div>
 
 ###
 <!-- Contribution Snake -->
@@ -129,7 +134,7 @@
 ###
 <!-- Footer Banner, Bye Bye -->
 <div align="center">
-  <img height="250" src="/img/gitlab-readme-banner-footer.gif"" />
+  <img height="200" src="/img/gitlab-readme-banner-footer.gif"" />
 </div>
 
 ###
