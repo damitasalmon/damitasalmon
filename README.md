@@ -27,7 +27,7 @@
 
 <!-- About and stuffs -->
 
-- 🔭 I’m currently working on an [ Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
+- 🔭 I’m currently working on an [Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
 
 - 📚 I’m currently learning Microsoft PowerApps.
 
