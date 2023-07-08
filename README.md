@@ -1,8 +1,8 @@
 
-# Choose your own Adventure 
+# Choose your own Adventure 👋🏾
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="./img/gitlab-readme-banner-header.gif />
 </div>
 
 ###
@@ -18,21 +18,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=damitasalmon.damitasalmon&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋🏾</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+- 🔭 I’m currently working on [an Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
+
+- 📚 I’m currently learning Microsoft PowerApps.
+
+- 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/). 
+  
+- ⚡ Ask me about anime. 
+
 
 ###
 
@@ -40,7 +37,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -100,11 +97,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug"  height="40" /> 
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" height="40" />
+  <img width="12" />
+
 </div>
 
 ###
 
+ 
+
+
+###
 <img src="https://raw.githubusercontent.com/damitasalmon/damitasalmon/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="150" src="./img/gitlab-readme-banner-footer.gif />
+</div>
 
 ###
 
