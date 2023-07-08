@@ -23,7 +23,7 @@
 
 
 ###
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">💅🏾 About Me</h3>
 
 <!-- About and stuffs -->
 
@@ -123,6 +123,8 @@
 ###
 <!-- Quote of the Day -->
  
+<h3 align="left">💭 Quote of the Day</h3>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Typing SVG" />
 </div>
