@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="200" src="./img/gitlab-readme-banner-headerv4.gif" />
+  <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-headerv4.gif" />
 </div>
 
 ###
@@ -133,7 +133,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 ###
 <!-- Footer Banner, Bye Bye -->
 <div align="center">
-  <img height="200" src="/img/gitlab-readme-banner-footer.gif"" />
+  <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-footer.gif" />
 </div>
 
 ###
