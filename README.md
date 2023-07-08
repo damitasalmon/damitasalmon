@@ -39,14 +39,13 @@ Highly-motivated with a strong foundation in information technology, a passion f
 
 ###
 <!-- Projects -->
-<!--  ⚙️ Recent Projects 
+⚙️ Working Projects 
 
-* [ATK Azure Cloud - Proof of Concept]()
-* [Azure SOC & Honeynet]()
-* [Bodium Security Audit]()
-* OpenVas Vulnerability Management]()
+* [AZFK-Tech Azure Cloud - Proof of Concept]()
+* [Azure SOC & Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet)
+* [Botium Security Audit](https://github.com/damitasalmon/botium-security-audit)
+* [OpenVas Vulnerability Management]()
   
--->
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
