@@ -1,5 +1,4 @@
 
-# Choose your own Adventure 👋🏾
 
 <div align="center">
   <img height="300" src="./img/gitlab-readme-banner-header.gif" />
@@ -18,6 +17,9 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure)](https://git.io/typing-svg)
+
+###
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -28,9 +30,17 @@
 
 - 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/). 
   
-- ⚡ Ask me about anime. 
+- ⚡ Ask me about recent projects and/or anime. 
 
+###
+<!--  ⚙️ Recent Projects 
 
+* [ATK Azure Cloud - Proof of Concept]()
+* [Azure SOC & Honeynet]()
+* [Bodium Security Audit]()
+* OpenVas Vulnerability Management]()
+  
+-->
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
