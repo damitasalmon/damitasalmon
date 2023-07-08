@@ -128,10 +128,6 @@
 </div>
 
 ###
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/damitasalmon/damitasalmon/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Footer Banner, Bye Bye -->
 <div align="center">
   <img height="200" src="/img/gitlab-readme-banner-footer.gif"" />
