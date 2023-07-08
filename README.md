@@ -110,8 +110,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 
  
 ### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+ <img align="center" src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 
 ###
