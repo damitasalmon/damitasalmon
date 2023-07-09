@@ -42,7 +42,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 <!-- Projects -->
 <h3 align="left">⚙️ Working Projects</h3>
 
-* AZFK-Tech Azure Cloud - Proof of Concept
+* [AZFK-Tech Azure Cloud - Proof of Concept](https://iruldanet.gitlab.io/field-notes/azure-poc/)
 * [Azure SOC & Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet)
 * [Botium Security Audit](https://github.com/damitasalmon/botium-security-audit)
 * OpenVas Vulnerability Management
