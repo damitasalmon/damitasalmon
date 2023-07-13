@@ -29,7 +29,7 @@
 Highly-motivated with a strong foundation in information technology, a passion for protecting digital assets and a proactive approach to threat analysis. Eager to leverage my technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
 
 
-- 🔭 I’m currently working on an [Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
+- 🔭 I’m currently working on an in-depth write up for [Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet) and Vulnerability Management with OpenVAS.
 
 - 📚 I’m currently learning Microsoft PowerApps.
 
@@ -43,7 +43,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 <h3 align="left">⚙️ Working Projects</h3>
 
 * [AZFK-Tech Azure Cloud - Proof of Concept](https://iruldanet.gitlab.io/field-notes/azure-poc/)
-* [Azure SOC & Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet)
+* [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/)
 * [Botium Security Audit](https://github.com/damitasalmon/botium-security-audit)
 * OpenVas Vulnerability Management
 
