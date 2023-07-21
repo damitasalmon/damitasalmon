@@ -35,7 +35,8 @@ Highly-motivated with a strong foundation in information technology, a passion f
 
 - 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/). 
   
-- ⚡ Ask me about recent projects and/or anime. 
+- ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
+  
 <br />
 
 ###
