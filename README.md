@@ -43,10 +43,10 @@ Highly-motivated with a strong foundation in information technology, a passion f
 <!-- Projects -->
 <h3 align="left">⚙️ Working Projects</h3>
 
-* [AZFK-Tech Azure Cloud - Proof of Concept](https://iruldanet.gitlab.io/field-notes/azure-poc/)
+* [OpenVas Vulnerability Management](https://iruldanet.gitlab.io/field-notes/greenbone-openVAS-lab/)
 * [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/)
 * Botium Security Audit
-* [OpenVas Vulnerability Management](https://iruldanet.gitlab.io/field-notes/greenbone-openVAS-lab/)
+* [AZFK-Tech Azure Cloud - Proof of Concept](https://iruldanet.gitlab.io/field-notes/azure-poc/)
 
 ###
 <!-- Tools -->
