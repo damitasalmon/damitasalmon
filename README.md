@@ -33,7 +33,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 
 - 📚 I’m currently learning Microsoft PowerApps.
 
-- 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/). 
+- 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab. 
   
 - ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
   
