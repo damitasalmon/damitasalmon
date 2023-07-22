@@ -33,7 +33,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 
 - 📚 I’m currently learning Microsoft PowerApps.
 
-- 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab. 
+- 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab.
   
 - ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
   
@@ -41,7 +41,7 @@ Highly-motivated with a strong foundation in information technology, a passion f
 
 ###
 <!-- Projects -->
-<h3 align="left">⚙️ Working Projects</h3>
+<h3 align="left">⚙️Recent Projects</h3>
 
 * [OpenVas Vulnerability Management](https://iruldanet.gitlab.io/field-notes/greenbone-openVAS-lab/)
 * [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/)
