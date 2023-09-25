@@ -29,9 +29,9 @@
 Highly-motivated with a strong foundation in information technology, a passion for protecting digital assets and a proactive approach to threat analysis. Eager to leverage my technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
 
 
-- 🔭 I’m currently working on python projects and an in-depth write up for [Azure SOC and Honeynet](https://github.com/damitasalmon/Azure-SOC-Honeynet).
+- 🔭 I’m currently working on studying for Splunk Core.
 
-- 📚 I’m currently learning Microsoft PowerApps.
+- 📚 I’m currently learning Splunk and Microsoft PowerApps.
 
 - 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab.
   
