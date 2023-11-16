@@ -34,7 +34,9 @@ Currently...
 
 - 📚 Learning Splunk. 
 
-- 📝 Writing up my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab for the [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/) lab. 
+- 📝 Writing up my [field notes](https://iruldanet.gitlab.io/field-notes/) for the [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/) lab. 
+
+- :tv: Watching Vision of Escaflowne. 
   
 - ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
   
