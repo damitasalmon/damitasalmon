@@ -26,14 +26,15 @@
 <!-- About and stuffs -->
 <h3 align="left">💅🏾 About Me</h3>
 
-Highly-motivated with a strong foundation in information technology, a passion for protecting digital assets and a proactive approach to threat analysis. Eager to leverage my technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
+A strong foundation in IT, a passion for protecting digital assets and a proactive approach to threat analysis. Enjoys leveraging technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
 
+Currently...
 
-- 🔭 I’m currently working on studying for Splunk Core.
+- 🔭 Studying for AZ-500. 
 
-- 📚 I’m currently learning Splunk and Microsoft PowerApps.
+- 📚 Learning Splunk. 
 
-- 📝 Sometimes, I write up my labs and post my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab.
+- 📝 Writing up my [field notes](https://iruldanet.gitlab.io/field-notes/) on Gitlab for the [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/) lab. 
   
 - ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
   
