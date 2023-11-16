@@ -34,7 +34,7 @@ Currently...
 
 - 📚 Learning Splunk. 
 
-- 📝 Writing up my [field notes](https://iruldanet.gitlab.io/field-notes/) for the [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/) lab. 
+- 📝 Writing up my [field notes](http://fieldnotes.iruldanet.com/) for the [Azure SOC & Honeynet](https://fieldnotes.iruldanet.com//azure-soc-honeynet/) lab. 
 
 - :tv: Watching Vision of Escaflowne. 
   
@@ -46,9 +46,9 @@ Currently...
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
-* [OpenVas Vulnerability Management](https://iruldanet.gitlab.io/field-notes/greenbone-openVAS-lab/)
-* [Azure SOC & Honeynet](https://iruldanet.gitlab.io/field-notes/azure-soc-honeynet/)
-* [AZFK-Tech Azure Cloud - Proof of Concept](https://iruldanet.gitlab.io/field-notes/azure-poc/)
+* [OpenVas Vulnerability Management](https://fieldnotes.iruldanet.com//greenbone-openVAS-lab/)
+* [Azure SOC & Honeynet](https://fieldnotes.iruldanet.com//azure-soc-honeynet/)
+* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.iruldanet.com//azure-poc/)
 
 ###
 <!-- Tools -->
