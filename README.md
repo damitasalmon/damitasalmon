@@ -30,11 +30,11 @@ A strong foundation in IT, a passion for protecting digital assets and a proacti
 
 Currently...
 
-- 🔭 Studying for AZ-500. 
+- 🔭 Studying for AWS Cloud Practitioner. 
 
-- 📚 Learning Splunk. 
+- 📚 Learning drawing and painting in Procreate.
 
-- 📝 Writing up my [field notes](http://fieldnotes.iruldanet.com/) for the [Azure SOC & Honeynet](https://fieldnotes.iruldanet.com/azure-soc-honeynet/) lab. 
+- 📝 Writing up my [field notes](http://fieldnotes.iruldanet.com/) for the [Azure SOC & Honeynet](https://fieldnotes.iruldanet.com/azure-soc-honeynet-moc/) lab. 
 
 - :tv: Watching Vision of Escaflowne. 
   
