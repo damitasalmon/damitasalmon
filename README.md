@@ -48,7 +48,7 @@ Currently...
 
 * [OpenVas Vulnerability Management](https://fieldnotes.damita.me/greenbone-openVAS-lab/)
 * [Azure SOC & Honeynet](https://fieldnotes.damita.me/azure-soc-honeynet/)
-* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.me/azure-poc/)
+* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.me/sample-azure-cloud-poc/)
 
 ###
 <!-- Tools -->
