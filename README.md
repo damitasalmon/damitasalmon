@@ -34,7 +34,7 @@ Currently...
 
 - 📚 Learning drawing and painting in Procreate.
 
-- 📝 Writing up my [field notes](http://fieldnotes.iruldanet.com/) for the [Azure SOC & Honeynet](https://fieldnotes.iruldanet.com/azure-soc-honeynet-moc/) lab. 
+- 📝 Writing up my [field notes](http://fieldnotes.damita.me/) for the [Azure SOC & Honeynet](https://fieldnotes.damita.me/azure-soc-honeynet-moc/) lab. 
 
 - :tv: Watching Vision of Escaflowne. 
   
@@ -46,9 +46,9 @@ Currently...
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
-* [OpenVas Vulnerability Management](https://fieldnotes.iruldanet.com/greenbone-openVAS-lab/)
-* [Azure SOC & Honeynet](https://fieldnotes.iruldanet.com/azure-soc-honeynet/)
-* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.iruldanet.com/azure-poc/)
+* [OpenVas Vulnerability Management](https://fieldnotes.damita.me/greenbone-openVAS-lab/)
+* [Azure SOC & Honeynet](https://fieldnotes.damita.me/azure-soc-honeynet/)
+* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.me/azure-poc/)
 
 ###
 <!-- Tools -->
