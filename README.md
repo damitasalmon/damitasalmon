@@ -30,13 +30,13 @@ A strong foundation in IT, a passion for protecting digital assets and a proacti
 
 Currently...
 
-- 🔭 Studying for AWS Cloud Practitioner. 
+- 🔭 Studying for all of the things. 
 
-- 📚 Learning drawing and painting in Procreate.
+- 📚 Learning Network Diagraming and Documentation in Illustrator/Inkscape.
 
-- 📝 Writing up my [field notes](http://fieldnotes.damita.me/). 
+- 📝 Writing up my [field notes](http://fieldnotes.damita.tech/). 
 
-- :tv: Watching Vision of Apothecary Diaries. 
+- :tv: Watching Paradise. 
   
 - ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
   
@@ -44,7 +44,7 @@ Currently...
 
 ###
 <!-- Projects -->
-<h3 align="left">⚙️Recent Projects</h3>
+<h3 align="left">⚙️Fun Projects</h3>
 
 * [OpenVas Vulnerability Management](https://fieldnotes.damita.me/labs/greenbone-openVAS-lab/)
 * [Azure SOC & mini-honeynet](https://fieldnotes.damita.me/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
