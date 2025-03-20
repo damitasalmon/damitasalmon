@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/damitas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://tryhackme.com/p/iruldanet" target="_blank">
+  <a href="https://app.hackthebox.com/profile/947114" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo"  />
   </a>
 
@@ -30,14 +30,14 @@
 
 ###
 <!-- About and stuffs -->
-<h3 align="left">💅🏾 About Me</h3>
+### 💅🏾 About Me
 
 <blockquote> I wouldn't expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that's not the claim. Security is process of choosing between "less safe" and "more safe;" and continuing to fork toward safety until you reach "safe enough."
-> - Edward Snowden </blockquote>
+<p>> Edward Snowden</p> </blockquote>
 
-Currently...
+### Currently...
 
-- 🔭 Studying Defensive Security. 
+- 🔭 Exploring Hack The Box. 
 
 - 📚 Learning Network Diagraming in Illustrator.
 
@@ -51,7 +51,7 @@ Currently...
 
 ###
 <!-- Projects -->
-<h3 align="left">⚙️Recent Projects</h3>
+### ⚙️Recent Projects
 
 * [OpenVas Vulnerability Management](https://fieldnotes.damita.tech/labs/greenbone-openVAS-lab/)
 * [Azure SOC & mini-honeynet](https://fieldnotes.damita.tech/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
@@ -60,7 +60,7 @@ Currently...
 ###
 <!-- Tools -->
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🛠 Language and tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -129,10 +129,9 @@ Currently...
   <img width="12" />
 </div>
 
-###
 <!-- Quote of the Day -->
  
-<h3 align="left">💭 Quote of the Day</h3>
+### 💭 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Typing SVG" />
@@ -151,4 +150,3 @@ Currently...
   <img src="https://profile-counter.glitch.tech/damitasalmon/count.svg?"  />
 </div>
 
-###
