@@ -24,13 +24,12 @@
 
 ###
 <!-- About and stuffs -->
-### 💅🏾 About Me
 
 <blockquote cite="https://x.com/Snowden/status/1165391070726950913">I wouldn't expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that's not the claim. Security is process of choosing between "less safe" and "more safe;" and continuing to fork toward safety until you reach "safe enough."
 <p align="right" ><cite>Edward Snowden</cite></p>
 </blockquote>
 
-#### Currently...
+### Currently...
 
 - 🔭 Learning and exploring Hack The Box.
 
@@ -40,7 +39,8 @@
 
 - :tv: Watching Wheel of Time.
 
-###
+<br />
+
 <!-- Projects -->
 ### ⚙️Recent Projects
 
@@ -48,7 +48,7 @@
 * [Azure SOC & mini-honeynet](https://fieldnotes.damita.tech/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
 * [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.tech/labs/sample-azure-cloud-poc/)
 
-###
+<br />
 
 <!-- Quote of the Day -->
  
@@ -58,13 +58,15 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Typing SVG" />
 </div>
 
-###
+<br />
+
 <!-- Footer Banner, Bye Bye -->
 <div align="center">
   <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-footer.gif" />
 </div>
 
-###
+<br />
+
 
 <!-- Visitor count -->
 <div align="center">
