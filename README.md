@@ -32,7 +32,7 @@
 <!-- About and stuffs -->
 ### 💅🏾 About Me
 
-<blockquote cite="https://x.com/Snowden/status/1165391070726950913"> I wouldn't expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that's not the claim. Security is process of choosing between "less safe" and "more safe;" and continuing to fork toward safety until you reach "safe enough."
+<blockquote cite="https://x.com/Snowden/status/1165391070726950913">I wouldn't expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that's not the claim. Security is process of choosing between "less safe" and "more safe;" and continuing to fork toward safety until you reach "safe enough."
 <p align="right" ><cite>Edward Snowden</cite></p></blockquote>
 
 #### Currently...
@@ -45,7 +45,7 @@
 
 - :tv: Watching Wheel of Time. 
   
-- ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
+- ⚡ Let's talk about security, privacy, fun projects or sci-fi. 
   
 <br />
 
