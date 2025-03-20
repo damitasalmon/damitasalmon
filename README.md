@@ -142,5 +142,6 @@
 
 <!-- Visitor count -->
 <div align="center">
-  <img src="https://profile-counter.glitch.tech/damitasalmon/count.svg?"  />
+  <h6 align="center">Visitor Count</h6>
+    <img src="https://profile-counter.glitch.me/damitasalmon/count.svg? />"
 </div>
