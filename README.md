@@ -1,24 +1,19 @@
-
-
 <div align="center">
   <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-headerv4.gif" />
 </div>
 
 ###
 
-
-  <div align="center">
-    <a href="https://tryhackme.com/p/iruldanet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/damitas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://app.hackthebox.com/profile/947114" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo"  />
-  </a>
-
-  
+<div align="center">
+  <a href="https://tryhackme.com/p/iruldanet" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+</a>
+<a href="https://www.linkedin.com/in/damitas" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
+<a href="https://app.hackthebox.com/profile/947114" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo"  />
+</a>
 </div>
 
 ###
@@ -27,13 +22,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Choose+your+own+adventure" alt="Typing SVG" />
 </div>
 
-
 ###
 <!-- About and stuffs -->
 ### 💅🏾 About Me
 
 <blockquote cite="https://x.com/Snowden/status/1165391070726950913">I wouldn't expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that's not the claim. Security is process of choosing between "less safe" and "more safe;" and continuing to fork toward safety until you reach "safe enough."
-<p align="right" ><cite>Edward Snowden</cite></p></blockquote>
+<p align="right" ><cite>Edward Snowden</cite></p>
+</blockquote>
 
 #### Currently...
 
@@ -41,9 +36,9 @@
 
 - 📚 Learning Network Diagraming in Illustrator.
 
-- 📝 Writing up my [field notes](http://fieldnotes.damita.tech/). 
+- 📝 Writing up my [field notes](http://fieldnotes.damita.tech/).
 
-- :tv: Watching Wheel of Time. 
+- :tv: Watching Wheel of Time.
   
 - ⚡ Let's talk about security, privacy, fun projects or sci-fi. 
   
@@ -149,4 +144,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.tech/damitasalmon/count.svg?"  />
 </div>
-
