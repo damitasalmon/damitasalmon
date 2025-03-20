@@ -6,10 +6,11 @@
 
 ###
 
-  <a href="https://tryhackme.com/p/iruldanet" target="_blank">
+
+  <div align="center">
+    <a href="https://tryhackme.com/p/iruldanet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
-  <div align="center">
   <a href="https://www.linkedin.com/in/damitas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -36,13 +37,13 @@
 
 Currently...
 
-- 🔭 Studying for AWS Cloud Practitioner. 
+- 🔭 Studying Defensive Security. 
 
 - 📚 Learning Network Diagraming in Illustrator.
 
 - 📝 Writing up my [field notes](http://fieldnotes.damita.tech/). 
 
-- :tv: Watching Vision of Apothecary Diaries. 
+- :tv: Watching Wheel of Time. 
   
 - ⚡ Let's talk about security, privacy, my recent projects or your favorite anime. 
   
