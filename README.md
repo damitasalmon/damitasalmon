@@ -124,6 +124,8 @@
   <img width="12" />
 </div>
 
+###
+
 <!-- Quote of the Day -->
  
 ### 💭 Quote of the Day
@@ -143,5 +145,5 @@
 <!-- Visitor count -->
 <div align="center">
   <h6 align="center">Visitor Count</h6>
-    <img src="https://profile-counter.glitch.me/damitasalmon/count.svg? />"
+    <img src="https://profile-counter.glitch.me/damitasalmon/count.svg" />
 </div>
