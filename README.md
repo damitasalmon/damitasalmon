@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<!--div align="center">
   <a href="https://tryhackme.com/p/iruldanet" target="_blank">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
 </a>
@@ -14,7 +14,7 @@
 <a href="https://app.hackthebox.com/profile/947114" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo"  />
 </a>
-</div>
+</div -->
 
 ###
 <!-- Typing SVG -->
@@ -29,7 +29,7 @@
 <p align="right" ><cite>Edward Snowden</cite></p>
 </blockquote>
 
-### Currently...
+<!-- ### Currently...
 
 - 🔭 Learning and exploring Hack The Box.
 
@@ -41,7 +41,7 @@
 
 <br />
 
-<!-- Projects -->
+<!-- Projects 
 ### ⚙️Recent Projects
 
 * [OpenVas Vulnerability Management](https://fieldnotes.damita.tech/labs/greenbone-openVAS-lab/)
@@ -49,7 +49,7 @@
 * [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.tech/labs/sample-azure-cloud-poc/)
 
 <br />
-
+--> 
 <!-- Quote of the Day -->
  
 ### 💭 Quote of the Day
@@ -64,9 +64,6 @@
 <div align="center">
   <img height="200" src="https://gitlab.com/iruldanet/iruldanet/-/raw/main/img/gitlab-readme-banner-footer.gif" />
 </div>
-
-<br />
-
 
 <!-- Visitor count -->
 <div align="center">
