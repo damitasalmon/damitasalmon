@@ -6,13 +6,18 @@
 
 ###
 
-<div align="center">
+  <a href="https://tryhackme.com/p/iruldanet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
+  <div align="center">
   <a href="https://www.linkedin.com/in/damitas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/iruldanet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackthebox&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackthebox logo"  />
   </a>
+
+  
 </div>
 
 ###
@@ -26,15 +31,16 @@
 <!-- About and stuffs -->
 <h3 align="left">💅🏾 About Me</h3>
 
-A strong foundation in IT, a passion for protecting digital assets and a proactive approach to threat analysis. Enjoys leveraging technical skills to safeguard privacy and contribute to solutions that can make a positive impact. 
+<blockquote> I wouldn't expect any system to be totally secure, much less remain secure forever in the face of adversary advances, but that's not the claim. Security is process of choosing between "less safe" and "more safe;" and continuing to fork toward safety until you reach "safe enough."
+> - Edward Snowden </blockquote>
 
 Currently...
 
 - 🔭 Studying for AWS Cloud Practitioner. 
 
-- 📚 Learning drawing and painting in Procreate.
+- 📚 Learning Network Diagraming in Illustrator.
 
-- 📝 Writing up my [field notes](http://fieldnotes.damita.me/). 
+- 📝 Writing up my [field notes](http://fieldnotes.damita.tech/). 
 
 - :tv: Watching Vision of Apothecary Diaries. 
   
@@ -46,9 +52,9 @@ Currently...
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
-* [OpenVas Vulnerability Management](https://fieldnotes.damita.me/labs/greenbone-openVAS-lab/)
-* [Azure SOC & mini-honeynet](https://fieldnotes.damita.me/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
-* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.me/labs/sample-azure-cloud-poc/)
+* [OpenVas Vulnerability Management](https://fieldnotes.damita.tech/labs/greenbone-openVAS-lab/)
+* [Azure SOC & mini-honeynet](https://fieldnotes.damita.tech/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
+* [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.tech/labs/sample-azure-cloud-poc/)
 
 ###
 <!-- Tools -->
@@ -72,7 +78,7 @@ Currently...
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
   <img width="12" />
@@ -141,7 +147,7 @@ Currently...
 
 <!-- Visitor count -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/damitasalmon/count.svg?"  />
+  <img src="https://profile-counter.glitch.tech/damitasalmon/count.svg?"  />
 </div>
 
 ###
