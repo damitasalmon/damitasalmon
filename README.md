@@ -32,17 +32,13 @@
 
 #### Currently...
 
-- 🔭 Exploring Hack The Box. 
+- 🔭 Learning and exploring Hack The Box.
 
 - 📚 Learning Network Diagraming in Illustrator.
 
 - 📝 Writing up my [field notes](http://fieldnotes.damita.tech/).
 
 - :tv: Watching Wheel of Time.
-  
-- ⚡ Let's talk about security, privacy, fun projects or sci-fi. 
-  
-<br />
 
 ###
 <!-- Projects -->
