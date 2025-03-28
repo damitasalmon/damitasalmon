@@ -42,7 +42,7 @@
 <br />
 --->
 
-###⚙️ Projects
+### ⚙️ Projects
 
 * [OpenVas Vulnerability Management](https://fieldnotes.damita.tech/labs/greenbone-openVAS-lab/)
 * [Azure SOC & mini-honeynet](https://fieldnotes.damita.tech/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
