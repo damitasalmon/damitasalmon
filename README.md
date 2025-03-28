@@ -40,16 +40,16 @@
 - :tv: Watching Wheel of Time.
 
 <br />
+--->
 
-<!-- Projects 
-### ⚙️Recent Projects
+###⚙️ Projects
 
 * [OpenVas Vulnerability Management](https://fieldnotes.damita.tech/labs/greenbone-openVAS-lab/)
 * [Azure SOC & mini-honeynet](https://fieldnotes.damita.tech/labs/Azure-SOC-Honeynet/azure-soc-honeynet-moc/)
 * [AZFK-Tech Azure Cloud - Proof of Concept](https://fieldnotes.damita.tech/labs/sample-azure-cloud-poc/)
 
 <br />
---> 
+
 <!-- Quote of the Day -->
  
 ### 💭 Quote of the Day
